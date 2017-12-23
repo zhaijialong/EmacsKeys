@@ -1,0 +1,5 @@
+﻿Emacs Emulation
+
+Open source code forked from https://github.com/zbrad/EmacsKeys
+
+23-Dec-2017 - v2.1: Upgraded to build with VS2017 and run on VS2012-VS2017
