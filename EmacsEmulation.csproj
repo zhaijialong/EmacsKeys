@@ -38,7 +38,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Microsoft.VisualStudio.Editor.EmacsEmulation</RootNamespace>
-    <AssemblyName>Microsoft.VisualStudio.Editor.EmacsEmulation</AssemblyName>
+    <AssemblyName>EmacsEmulation</AssemblyName>
     <SignAssembly>True</SignAssembly>
     <AssemblyOriginatorKeyFile>Key.snk</AssemblyOriginatorKeyFile>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
