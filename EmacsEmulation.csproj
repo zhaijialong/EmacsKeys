@@ -349,7 +349,6 @@ resources
   <ItemGroup>
     <Content Include="emacs-logo.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <Content Include="Emacs.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -372,6 +371,10 @@ resources
     <Content Include="ReleaseNotes.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Resources\EmacsVs_Icon_128x.png">
+      <IncludeInVSIX>true</IncludeInVSIX>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\Package.ico" />
   </ItemGroup>

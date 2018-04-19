@@ -6,7 +6,7 @@
         <Description xml:space="preserve">Provides basic support for Emacs keybindings and text editing commands.</Description>
         <License>LICENSE.rtf</License>
         <ReleaseNotes>ReleaseNotes.txt</ReleaseNotes>
-        <Icon>emacs-logo.png</Icon>
+        <Icon>Resources\EmacsVs_Icon_128x.png</Icon>
         <PreviewImage>Emacs.png</PreviewImage>
         <Tags>emacs</Tags>
     </Metadata>
