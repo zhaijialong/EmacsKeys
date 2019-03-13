@@ -5,6 +5,7 @@ using System.Text;
 
 namespace Microsoft.VisualStudio.Editor.EmacsEmulation.Commands
 {
+    [Serializable]
     public class NoOperationException : Exception
     {
     }
